@@ -1,0 +1,13 @@
+/home/aubrey/Fall/Graphviz_C_sharp/bin/Debug/netcoreapp3.1/GVTool_C_Sharp
+/home/aubrey/Fall/Graphviz_C_sharp/bin/Debug/netcoreapp3.1/GVTool_C_Sharp.deps.json
+/home/aubrey/Fall/Graphviz_C_sharp/bin/Debug/netcoreapp3.1/GVTool_C_Sharp.runtimeconfig.json
+/home/aubrey/Fall/Graphviz_C_sharp/bin/Debug/netcoreapp3.1/GVTool_C_Sharp.runtimeconfig.dev.json
+/home/aubrey/Fall/Graphviz_C_sharp/bin/Debug/netcoreapp3.1/GVTool_C_Sharp.dll
+/home/aubrey/Fall/Graphviz_C_sharp/bin/Debug/netcoreapp3.1/GVTool_C_Sharp.pdb
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.csprojAssemblyReference.cache
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.AssemblyInfoInputs.cache
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.AssemblyInfo.cs
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.csproj.CoreCompileInputs.cache
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.dll
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.pdb
+/home/aubrey/Fall/Graphviz_C_sharp/obj/Debug/netcoreapp3.1/GVTool_C_Sharp.genruntimeconfig.cache

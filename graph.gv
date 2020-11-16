@@ -1,0 +1,132 @@
+﻿digraph BinaryTree {
+
+node [shape=circle fontname="Helvetica"];
+
+Node_41 [label="0"]
+Node_55 [label="1"]
+Node_47 [label="2"]
+Node_38 [label="4"]
+Node_13 [label="5"]
+Node_0 [label="10"]
+Node_44 [label="12"]
+Node_18 [label="12"]
+Node_10 [label="13"]
+Node_52 [label="17"]
+Node_34 [label="17"]
+Node_32 [label="18"]
+Node_11 [label="18"]
+Node_17 [label="20"]
+Node_39 [label="21"]
+Node_48 [label="23"]
+Node_28 [label="23"]
+Node_54 [label="24"]
+Node_26 [label="24"]
+Node_14 [label="24"]
+Node_58 [label="26"]
+Node_3 [label="26"]
+Node_37 [label="27"]
+Node_43 [label="30"]
+Node_23 [label="32"]
+Node_57 [label="33"]
+Node_42 [label="36"]
+Node_9 [label="39"]
+Node_27 [label="42"]
+Node_49 [label="46"]
+Node_45 [label="49"]
+Node_51 [label="55"]
+Node_53 [label="57"]
+Node_46 [label="57"]
+Node_33 [label="58"]
+Node_59 [label="61"]
+Node_6 [label="62"]
+Node_56 [label="63"]
+Node_12 [label="63"]
+Node_15 [label="65"]
+Node_4 [label="65"]
+Node_40 [label="66"]
+Node_8 [label="67"]
+Node_24 [label="72"]
+Node_7 [label="73"]
+Node_1 [label="73"]
+Node_25 [label="76"]
+Node_19 [label="76"]
+Node_35 [label="78"]
+Node_5 [label="80"]
+Node_21 [label="81"]
+Node_22 [label="82"]
+Node_20 [label="82"]
+Node_29 [label="86"]
+Node_50 [label="88"]
+Node_30 [label="92"]
+Node_2 [label="93"]
+Node_16 [label="95"]
+Node_31 [label="96"]
+Node_36 [label="98"]
+
+Node_0 [style=filled, color=yellow]
+Node_13 [style=filled, color=yellow]
+Node_38 [style=filled, color=yellow]
+Node_41 [label="Min
+0" , style=filled, color=yellow]
+
+Node_0 -> Node_13
+Node_13 -> Node_38
+Node_38 -> Node_41
+Node_41 -> Node_47
+Node_47 -> Node_55
+Node_0 -> Node_1
+Node_1 -> Node_3
+Node_3 -> Node_10
+Node_10 -> Node_18
+Node_18 -> Node_44
+Node_10 -> Node_11
+Node_11 -> Node_32
+Node_32 -> Node_34
+Node_34 -> Node_52
+Node_11 -> Node_14
+Node_14 -> Node_17
+Node_17 -> Node_26
+Node_26 -> Node_28
+Node_28 -> Node_39
+Node_39 -> Node_48
+Node_28 -> Node_54
+Node_14 -> Node_58
+Node_3 -> Node_4
+Node_4 -> Node_6
+Node_6 -> Node_9
+Node_9 -> Node_23
+Node_23 -> Node_37
+Node_37 -> Node_43
+Node_23 -> Node_42
+Node_42 -> Node_57
+Node_9 -> Node_27
+Node_27 -> Node_33
+Node_33 -> Node_45
+Node_45 -> Node_49
+Node_45 -> Node_46
+Node_46 -> Node_51
+Node_51 -> Node_53
+Node_33 -> Node_59
+Node_6 -> Node_12
+Node_12 -> Node_56
+Node_12 -> Node_15
+Node_4 -> Node_7
+Node_7 -> Node_8
+Node_8 -> Node_40
+Node_8 -> Node_24
+Node_1 -> Node_2
+Node_2 -> Node_5
+Node_5 -> Node_19
+Node_19 -> Node_25
+Node_19 -> Node_35
+Node_5 -> Node_20
+Node_20 -> Node_21
+Node_21 -> Node_22
+Node_20 -> Node_29
+Node_29 -> Node_30
+Node_30 -> Node_50
+Node_2 -> Node_16
+Node_16 -> Node_31
+Node_31 -> Node_36
+
+}
